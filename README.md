@@ -1,7 +1,8 @@
-# MEAM520: Introduction to Robotics
+# Programmed the Franka Emika Arm (part of coursework MEAM520: Introduction to Robotics)
 ### Date Modified: 08/29/2024
 
-Maintainers: Contact 2024 Fall semester TAs
+This repo contains code for Forward and Inverse Kinematics and Path planning algorithms for the Franka Emika Robotic Arm.
+
 
 # Subdirectory Structure:
 - `core`: contains support code we provide to you, such as helper functions and interfaces for interacting with the robot (either simulated or real!)
