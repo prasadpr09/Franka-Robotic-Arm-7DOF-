@@ -5,12 +5,10 @@ This repo contains code for Forward and Inverse Kinematics and Path planning alg
 
 
 # Subdirectory Structure:
-- `core`: contains support code we provide to you, such as helper functions and interfaces for interacting with the robot (either simulated or real!)
-- `lib`: will contain functions implementing algorithms to solve computational problems relating to the class material, such as forward and inverse kinematics and trajectory planning
-- `labs`: will contain test scripts that use the algorithms you implement in `lib` and the tools we provide in `core` to control the robot and achieve tasks
+- `core`: contains helper functions and interfaces for interacting with the robot (either simulated or real!)
+- `lib`:  contains functions implementing algorithms to solve computational problems, such as forward and inverse kinematics and trajectory planning
+- `labs`: contains test scripts that use the algorithms I implement in `lib` and the tools in `core` to control the robot and achieve tasks
 - `ros`: contains code necessary to launch the simulator. You won't need to work in this directory.
-
-`lib` and `labs` will be the main places you are working this semester!
 
 
 # Native Install Instructions (NOT REQUIRED FOR VIRTUAL MACHINE)
