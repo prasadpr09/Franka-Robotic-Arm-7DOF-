@@ -2,7 +2,7 @@
 ### Date Modified: 08/29/2024
 
 This repo contains code for Forward and Inverse Kinematics and Path planning algorithms for the Franka Emika Robotic Arm.
-
+For pick and place code, please see: https://github.com/prasadpr09/FrankaArm-Pick-and-Place-operation
 
 # Subdirectory Structure:
 - `core`: contains helper functions and interfaces for interacting with the robot (either simulated or real!)
